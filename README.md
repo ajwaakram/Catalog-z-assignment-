@@ -15,7 +15,6 @@ This project is a frontend clone of the Catalog-Z website created using HTML, CS
 - Mobile-friendly design
 
 ## Live Demo
-Netlify: (Paste your Netlify link here)
-
+https://catalog-z-assignment.netlify.app
 ## Repository
-GitHub: (Paste your GitHub repository link here)
+
