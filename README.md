@@ -1,2 +1,21 @@
-# Catalog-z-assignment-
-Task 02 - Pixel-perfect Catalog-Z website clone built using HTML, CSS, and Flexbox. Responsive layout created as part of a frontend development assignment.
+# Catalog-Z Clone
+
+This project is a frontend clone of the Catalog-Z website created using HTML, CSS, and Flexbox.
+
+## Technologies Used
+- HTML5
+- CSS3
+- Flexbox
+
+## Features
+- Responsive layout
+- Image gallery
+- Navigation menu
+- Clean UI
+- Mobile-friendly design
+
+## Live Demo
+Netlify: (Paste your Netlify link here)
+
+## Repository
+GitHub: (Paste your GitHub repository link here)
